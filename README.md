@@ -18,9 +18,15 @@ Additionally this project required removing redundancies and properly commenting
 ### Mock Up
 ​
 Another training point we learned from this challenge is taking a mock up and ensuring our final application looks just like the mock-up the design team gave us. 
-* One thing to note is the mock-up does not include the footer, however based on the lesson from this module I have decided to keep the footer since the acceptance criteria does not make any indication as to whether it should be removed. 
+* One thing to note is the mock-up does not include the footer, however based on the lesson from this module I have decided to keep the footer since the acceptance criteria does not make any indication as to whether it should be removed.
+
+Mock Up:
 
 ![Mock up of Horiseon Home Page](./assets/images/Horiseon_MockUp.png?raw=true "MockUp")
+
+Footer:
+
+![Horiseon Footer](./assets/images/HoriseonFooter.png?raw=true "Footer")
 ​
 ### Access Application
 ​
