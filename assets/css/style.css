@@ -51,12 +51,25 @@ header nav ul li {
     display: inline;
     margin-left: 25px;
 }
+/* end header styling */
 
-.seo  {
-    color: #d9dcd6;
+/* footer styling */
+
+footer {
+    padding: 30px;
+    clear: both;
+    text-align: center;
 }
 
-/* end header styling */
+footer h2 {
+    font-size: 20px;
+}
+
+/* end footer styling */
+
+.seo {
+    color: #d9dcd6;
+}
 
 /* hero styling */
 
@@ -135,17 +148,3 @@ header nav ul li {
 }
 
 /* end benefits styling */
-
-/* footer styling */
-
-footer {
-    padding: 30px;
-    clear: both;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-
-/* end footer styling */
